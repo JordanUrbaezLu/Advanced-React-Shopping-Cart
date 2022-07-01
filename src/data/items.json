@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "PC",
+      "price": 1999,
+      "imgUrl": "/imgs/Desktop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SonyXM5",
+      "price": 499,
+      "imgUrl": "/imgs/Headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Protein Powder",
+      "price": 49.99,
+      "imgUrl": "/imgs/Protein.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shirt",
+      "price": 19.99,
+      "imgUrl": "/imgs/Shirt.jpg"
+    }
+  ]
